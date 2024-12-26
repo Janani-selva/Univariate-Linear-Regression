@@ -23,10 +23,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ```
 ## Output
-</br>
-</br>
-</br>
-</br>
+
+![Screenshot 2024-12-26 213422](https://github.com/user-attachments/assets/c08be7f0-16a2-4928-82e8-f19997390843)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
